@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "TypeScript course",
+  "main": "app.js",
+  "scripts": {
+    "test": "run tstest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlenaSakhno/TSCourse.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "course"
+  ],
+  "author": "Olena Sakhno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlenaSakhno/TSCourse/issues"
+  },
+  "homepage": "https://github.com/OlenaSakhno/TSCourse#readme"
+}
